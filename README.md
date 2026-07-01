@@ -164,9 +164,10 @@ Uber-Trip-Analytics/
 ├── images/
 │   ├── monthly_trips.png
 │   ├── purpose_and_category_distribution.png
-│   ├── heatmap.png
-│   ├── round_trip.png
-│   └── ...
+│   ├── heatmap_miles_minutes.png
+│   ├── heatmap_miles_minutes_month.png
+│   ├── round_trips.png
+│   └── duration_vs_miles.png
 │
 ├── README.md
 ├── requirements.txt
